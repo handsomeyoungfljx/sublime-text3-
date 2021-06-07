@@ -44,9 +44,9 @@ prepferences–>key bindings-Uer –>
 ]
 
 
-ctrl+alt+space 右移光标一个字
-shift+space 左移光标一个字
-ctrl+shift+space 右移光标一个单元
-shift+alt+space 左移光标一个单元
-alt+enter 下移光标一行
-shift+alt+enter 上移光标一行
+ctrl+alt+space 右移光标一个字；
+shift+space 左移光标一个字；
+ctrl+shift+space 右移光标一个单元；
+shift+alt+space 左移光标一个单元；
+alt+enter 下移光标一行；
+shift+alt+enter 上移光标行；
