@@ -1,6 +1,6 @@
 # sublime-text3-配置方案
 
-##prepferences–>key bindings-Uer –>
+## prepferences–>key bindings-Uer –>
 
 [
 	
@@ -51,7 +51,7 @@ shift+alt+space 左移光标一个单元；
 alt+enter 下移光标一行；
 shift+alt+enter 上移光标行；
 
-##prepferences–>setting –>
+## prepferences–>setting –>
 
 {
 	"font_size":18.0,
